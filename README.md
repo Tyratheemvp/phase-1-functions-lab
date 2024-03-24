@@ -33,17 +33,17 @@ uptown/downtown, not from river to river.
 ## Getting Started
 
 If you haven't already, fork and clone this lab into your local environment.
-Remember to **fork** a copy into your GitHub account first, then **clone** from
+Remember to **fork** a copy into your GitHub account first, t;;hen **clone** from
 that copy. Navigate into its directory in the terminal, then run `code .` to
 open the files in Visual Studio Code.
 
 ## Instructions
 
-To complete all of your work assignments, you'll need to write four functions:
+To complete all of your work assignments, you'll need to write four functions: 
 
 - `distanceFromHqInBlocks`: Returns the number of blocks from Scuber's
   headquarters to the pickup location.
-
+4 v
   ```js
   function distanceFromHqInBlocks(someValue) {
     //returns the number of blocks given a value
